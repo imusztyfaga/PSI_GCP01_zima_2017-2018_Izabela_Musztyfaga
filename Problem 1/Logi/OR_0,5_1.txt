@@ -1,4 +1,0 @@
-0.465025
-0.893792
-0.921412
-The delta rules were invoked 7 times
