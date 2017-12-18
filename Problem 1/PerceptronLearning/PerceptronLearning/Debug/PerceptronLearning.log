@@ -1,7 +1,0 @@
-﻿  main.cpp
-d:\studia\agh\podstawy sztucznej inteligencji\problem 1\perceptronlearning\perceptronlearning\main.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\studia\agh\podstawy sztucznej inteligencji\problem 1\perceptronlearning\perceptronlearning\main.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-d:\studia\agh\podstawy sztucznej inteligencji\problem 1\perceptronlearning\perceptronlearning\main.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-d:\studia\agh\podstawy sztucznej inteligencji\problem 1\perceptronlearning\perceptronlearning\main.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  PerceptronLearning.vcxproj -> D:\Studia\AGH\Podstawy Sztucznej Inteligencji\Problem 1\PerceptronLearning\Debug\PerceptronLearning.exe
-  PerceptronLearning.vcxproj -> D:\Studia\AGH\Podstawy Sztucznej Inteligencji\Problem 1\PerceptronLearning\Debug\PerceptronLearning.pdb (Full PDB)
